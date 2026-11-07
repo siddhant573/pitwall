@@ -1,6 +1,6 @@
 # pitwall 🏁
 
-[![PyPI](https://img.shields.io/pypi/v/pitwall-agents)](https://pypi.org/project/pitwall-agents/) [![License: MIT](https://img.shields.io/badge/license-MIT-blue)](LICENSE) [![GitHub stars](https://img.shields.io/github/stars/siddhant573/pitwall?style=social)](https://github.com/siddhant573/pitwall)
+[![PyPI](https://img.shields.io/pypi/v/pitwall-agents)](https://pypi.org/project/pitwall-agents/) [![License: MIT](https://img.shields.io/badge/license-MIT-blue)](LICENSE) [![GitHub stars](https://img.shields.io/github/stars/siddhant573/pitwall?style=social&label=Star)](https://github.com/siddhant573/pitwall)
 
 **A pit wall for your coding agents.** See every agent session's state on a device on your desk, and jump to the right terminal tab with one button.
 
