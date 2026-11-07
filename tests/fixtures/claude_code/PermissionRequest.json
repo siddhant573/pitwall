@@ -1,0 +1,14 @@
+{
+  "session_id": "11111111-2222-3333-4444-555555555555",
+  "transcript_path": "/redacted/transcript.jsonl",
+  "cwd": "/Users/dev/work/api",
+  "prompt_id": "redacted-id",
+  "permission_mode": "default",
+  "effort": {
+    "level": "medium"
+  },
+  "hook_event_name": "PermissionRequest",
+  "tool_name": "Write",
+  "tool_input": "<redacted>",
+  "permission_suggestions": "<redacted>"
+}
